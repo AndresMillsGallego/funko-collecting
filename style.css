@@ -1,0 +1,41 @@
+body {
+    background-color:gray;
+    border: solid black;
+    padding: 10px;
+}
+
+header {
+    text-align: center;
+    font-size:xx-large;
+}
+
+button {
+  margin: 180px;
+  font-size:x-large;
+  background-color:crimson;
+}
+
+section {
+    background-color:rgb(187, 185, 185);
+    border: solid blue;
+    padding: 10px;
+    margin: 10px;
+    font-size: larger;
+    color:navy;
+}
+
+img {
+    width: 600px;
+    height: auto;
+}
+#sectionA {
+    text-align: left;
+}
+
+#sectionB {
+    text-align: right;
+}
+
+footer {
+    text-align: center;
+}
