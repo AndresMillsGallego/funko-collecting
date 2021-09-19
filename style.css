@@ -7,35 +7,41 @@ body {
 header {
     text-align: center;
     font-size:xx-large;
+    padding: 20px;
+    margin: 20px;
 }
 
 button {
-  margin: 180px;
   font-size:x-large;
   background-color:crimson;
+  margin: 25px;
 }
 
 section {
     background-color:rgb(187, 185, 185);
     border: solid blue;
-    padding: 10px;
-    margin: 10px;
+    padding: 15px;
+    margin: 15px;
     font-size: larger;
     color:navy;
 }
 
-img {
-    width: 600px;
-    height: auto;
-}
-#sectionA {
-    text-align: left;
+#imgA {
+    
+    margin-right: auto;
+    width: 500px;
 }
 
-#sectionB {
-    text-align: right;
+#imgB {
+    display: block;
+    margin-left: auto;
+    width: 500px;
 }
-
+#imgC {
+    display: block;
+    margin-right: auto;
+    width: 500px;
+}
 footer {
     text-align: center;
 }
