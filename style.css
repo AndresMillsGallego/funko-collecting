@@ -1,5 +1,5 @@
 body {
-    background-color:gray;
+    background-color:rgb(250, 252, 253);
     border: solid black;
     padding: 10px;
 }
@@ -18,29 +18,43 @@ button {
 }
 
 section {
-    background-color:rgb(187, 185, 185);
-    border: solid blue;
+    background-color:rgb(213, 229, 255);
+    border: solid rgba(0, 38, 255, 0.726);
     padding: 15px;
     margin: 15px;
     font-size: larger;
     color:navy;
+    text-align: center;
 }
 
 #imgA {
-    
     margin-right: auto;
     width: 500px;
 }
 
 #imgB {
-    display: block;
     margin-left: auto;
     width: 500px;
 }
 #imgC {
-    display: block;
     margin-right: auto;
     width: 500px;
+}
+#lastSection {
+    height: 40px;
+    
+}
+#clickMe {
+    width:100px;
+    height:40px;
+    font-size: large;
+    background-color: gold;
+}
+#truth {
+    width:200px;
+    height: 40px;
+    background-color:gold;
+    font-size: large;
 }
 footer {
     text-align: center;
