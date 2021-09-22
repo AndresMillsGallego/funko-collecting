@@ -40,26 +40,28 @@ section {
     margin-right: auto;
     width: 500px;
 }
+
 #lastSection {
     height: 80px;
     border: solid blue;
     padding: 15px;
-    margin: 15px;
-
-    
+    margin: 15px;    
 }
+
 #clickMe {
     width:100px;
     height:40px;
     font-size: large;
     background-color: gold;
 }
+
 #truth {
     width:200px;
     height: 40px;
     background-color:gold;
     font-size: large;
 }
+
 #freddie1 {
     width: 60px;
     height: auto;
@@ -72,4 +74,10 @@ section {
 }
 footer {
     text-align: center;
+}
+
+#rating {
+    width: 100px;
+    height: 30px;
+    font-size: large;
 }
