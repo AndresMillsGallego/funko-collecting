@@ -13,5 +13,6 @@ function funkoCount() {
         } else{ 
                 alert("That is not a number")
                     funkoCount()
-        }
-            };
+                    return false;
+    }
+};
