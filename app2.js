@@ -1,6 +1,6 @@
 function askColor() {
     
-    let colorChoice = prompt("Do you like this color? Yes/No")
+    let colorChoice = prompt("Do you like this color? Yes or No?")
         if (colorChoice.toLowerCase() == "yes") {
             alert("Me too")
             return true;
